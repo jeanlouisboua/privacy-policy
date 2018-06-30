@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Politique de confidentialité
 
-You can use the [editor on GitHub](https://github.com/JLABSTUDIO/philotes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 1.Collecte de l’information
 
-### Markdown
+Nous recueillons des informations lorsque vous vous inscrivez sur notre application, lorsque vous vous connectez à votre compte et / ou lorsque vous vous déconnectez. Les informations recueillies incluent votre nom, votre adresse e-mail, votre photo de profil facebook.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+En outre, nous recevons et enregistrons automatiquement des informations à partir de votre ordinateur et navigateur, y compris votre adresse IP, et la page que vous demandez.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 2. Utilisation des informations
 
-- Bulleted
-- List
+Toute les informations que nous recueillons auprès de vous peuvent être utilisées pour :
 
-1. Numbered
-2. List
+Personnaliser votre expérience et répondre à vos besoins individuels
+Fournir un contenu publicitaire personnalisé
+Améliorer notre site Web
+Améliorer le service client et vos besoins de prise en charge
+Vous contacter par e-mail
+Administrer un concours, une promotion, ou un enquête
 
-**Bold** and _Italic_ and `Code` text
+### 3. Divulgation à des tiers
 
-[Link](url) and ![Image](src)
-```
+Nous ne vendons, n’échangeons et ne transférons pas vos informations personnelles identifiables à des tiers. Cela ne comprend pas les tierce parties de confiance qui nous aident à exploiter notre site Web ou à mener nos affaires, tant que ces parties conviennent de garder ces informations confidentielles.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Nous pensons qu’il est nécessaire de partager des informations afin d’enquêter, de prévenir ou de prendre des mesures concernant des activités illégales, fraudes présumées, situations impliquant des menaces potentielles à la sécurité physique de toute personne, violations de nos conditions d’utilisation, ou quand la loi nous y contraint.
 
-### Jekyll Themes
+Les informations non-privées, cependant, peuvent être fournies à d’autres parties pour le marketing, la publicité, ou d’autres utilisations.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JLABSTUDIO/philotes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 4. Protection des informations
 
-### Support or Contact
+Nous mettons en œuvre une variété de mesures de sécurité pour préserver la sécurité de vos informations personnelles. Nous utilisons un cryptage à la pointe de la technologie pour protéger les informations sensibles transmises en ligne. Nous protégeons également vos informations hors ligne. Seuls les employés qui ont besoin d’effectuer un travail spécifique (par exemple, la facturation ou le service à la clientèle) ont accès aux informations personnelles identifiables. Les ordinateurs et serveurs utilisés pour stocker des informations personnelles identifiables sont conservés dans un environnement sécurisé.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Est-ce que nous utilisons des cookies ?
+
+Oui. Nos cookies améliorent l’accès à notre site et identifient les visiteurs réguliers. En outre, nos cookies améliorent l’expérience d’utilisateur grâce au suivi et au ciblage de ses intérêts. Cependant, cette utilisation des cookies n’est en aucune façon liée à des informations personnelles identifiables sur notre site.
+
+### 5. Consentement
+En utilisant notre application, vous consentez à notre politique de confidentialité.
