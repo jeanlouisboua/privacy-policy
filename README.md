@@ -1,32 +1,32 @@
-## Politique de confidentialité
+## Privacy Policy
 
 
-### 1.Collecte de l’information
+### 1. Information collection
 
-Nous recueillons des informations lorsque vous vous connectez à notre applicaton . Les informations recueillies incluent votre nom, votre adresse e-mail, votre photo de profil play games services.
+We collect information when you log into our application. The information collected includes your name, your e-mail address, your play games services profile picture.
 
-### 2. Utilisation des informations
+### 2. Use of information
 
-Toute les informations que nous recueillons auprès de vous peuvent être utilisées pour :
+All of the information we collect from you may be used to:
 
-Personnaliser votre expérience et répondre à vos besoins individuels
-Améliorer le service client et vos besoins de prise en charge
-Vous contacter par e-mail
-Administrer un concours, une promotion, ou un enquête
+Personalize your experience and meet your individual needs
+Improve customer service and your support needs
+Contact you by e-mail
+Administer a contest, promotion, or survey
 
-### 3. Divulgation à des tiers
+### 3. Disclosure to third parties
 
-Nous ne vendons, n’échangeons et ne transférons pas vos informations personnelles identifiables à des tiers. Cela ne comprend pas les tierce parties de confiance qui nous aident à exploiter notre application, tant que ces parties conviennent de garder ces informations confidentielles.
+We do not sell, trade, or transfer your personally identifiable information to third parties. This does not include trusted third parties who help us operate our application, as long as such parties agree to keep this information confidential.
 
-Nous pensons qu’il est nécessaire de partager des informations afin d’enquêter, de prévenir ou de prendre des mesures concernant des activités illégales, fraudes présumées, situations impliquant des menaces potentielles à la sécurité physique de toute personne, violations de nos conditions d’utilisation, ou quand la loi nous y contraint.
+We believe that it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms and conditions. use, or when required by law.
 
-Les informations non-privées, cependant, peuvent être fournies à d’autres parties pour le marketing, la publicité, ou d’autres utilisations.
+Non-private information, however, may be provided to other parties for marketing, advertising, or other uses.
 
-### 4. Protection des informations
+### 4. Information protection
 
-Nous mettons en œuvre une variété de mesures de sécurité pour préserver la sécurité de vos informations personnelles. Nous utilisons un cryptage à la pointe de la technologie pour protéger les informations sensibles transmises en ligne. Nous protégeons également vos informations hors ligne.Les ordinateurs et serveurs utilisés pour stocker des informations personnelles identifiables sont conservés dans un environnement sécurisé.
+We implement a variety of security measures to keep your personal information secure. We use state-of-the-art encryption to protect sensitive information transmitted online. We also protect your information offline. Computers and servers used to store personally identifiable information are kept in a secure environment.
 
 
 
-### 5. Consentement
-En utilisant notre application, vous consentez à notre politique de confidentialité.
+### 5. Consent
+By using our app, you consent to our privacy policy.
